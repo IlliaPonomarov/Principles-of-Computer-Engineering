@@ -1,0 +1,9 @@
+# prevodník z BCD8421 do Aiken
+A = (b&!c&!d) | (b&d) | (a&!d);
+
+B = (c&!d) | (!b&d);
+
+C = (b&!c) | (!b&d) | (a&!d);
+
+D = (!a&b&c&d) | (!b&c&!d) | (!b&!c&d) | (b&!c&!d) | (a&!d);
+
