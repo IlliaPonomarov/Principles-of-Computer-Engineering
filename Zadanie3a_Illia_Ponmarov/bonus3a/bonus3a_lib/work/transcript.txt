@@ -1,0 +1,20 @@
+# //  ModelSim SE 6.6g May 23 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -L bonus3a_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit C:/mentorgraphics/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"C:/mentorgraphics/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} bonus3a_lib.schemas_tsest(struct) 
+# Loading C:/mentorgraphics/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.schemas_tsest(struct)#1
+# 
+#  
+force -freeze sim:/schemas_tsest/din0 1 0
+force -freeze sim:/schemas_tsest/clk 0 0

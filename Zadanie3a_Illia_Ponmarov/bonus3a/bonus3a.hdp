@@ -1,0 +1,15 @@
+[DesignChecker]
+bonus3a_lib = $HDS_PROJECT_DIR\bonus3a_lib\designcheck
+[ModelSim]
+bonus3a_lib = $HDS_PROJECT_DIR\bonus3a_lib\work
+[hdl]
+bonus3a_lib = $HDS_PROJECT_DIR/bonus3a_lib/hdl
+[hds]
+bonus3a_lib = $HDS_PROJECT_DIR/bonus3a_lib/hds
+[hds_settings]
+default_library = bonus3a_lib
+version = 2
+[library_type]
+bonus3a_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

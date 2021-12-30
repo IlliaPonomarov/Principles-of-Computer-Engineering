@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\HDS\bonus3a\bonus3a_lib\work
+T_opt
+V>JYamWHkcL[AhkDcb44MM2
+04 7 6 work logisim struct 1
+=1-d0e40bb21e8a-61b5e3b1-276-4e30
+Z1 o-quiet +acc -auto_acc_if_foreign -work bonus3a_lib -L bonus3a_lib
+n@_opt
+Z2 OE;O;6.6g;45
+Z3 dC:\HDS\bonus3a\bonus3a_lib\work
+T_opt1
+VP2<3BXd7K61UQQN8AIOCQ2
+04 13 6 work schemas_tsest struct 1
+=1-d0e40bb21e8a-61bba44b-eb-4258
+R1
+n@_opt1
+R2
+R3
+Elogisim
+Z4 w1639308190
+Z5 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z6 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+R3
+Z7 8C:/HDS/bonus3a/bonus3a_lib/hdl/logisim_struct.vhd
+Z8 FC:/HDS/bonus3a/bonus3a_lib/hdl/logisim_struct.vhd
+l0
+L13
+VEk4>lk1iW2IkoRDoka[JH0
+Z9 OE;C;6.6g;45
+32
+Z10 o-work bonus3a_lib -nologo
+Z11 tExplicit 1
+!s100 Qz>mzzJ;K2Kh5bZ427zd50
+Astruct
+DEx4 work 7 logisim 0 22 Ek4>lk1iW2IkoRDoka[JH0
+R5
+R6
+l49
+L39
+V:@SoTc5X0Oi8IIz<fhXKn2
+R9
+32
+Z12 Mx2 4 ieee 14 std_logic_1164
+Z13 Mx1 4 ieee 15 std_logic_arith
+R10
+R11
+!s100 3Eo6P26WCFfKM5HJ8UOSV3
+Eschemas_tsest
+Z14 w1639924069
+R5
+R6
+R3
+Z15 8C:/HDS/bonus3a/bonus3a_lib/hdl/schemas_tsest_struct.vhd
+Z16 FC:/HDS/bonus3a/bonus3a_lib/hdl/schemas_tsest_struct.vhd
+l0
+L13
+VAlCWfWkQ89:iB_bQe5Q?60
+!s100 ]h7oIzoKM4AZgPfKP0SHH0
+R9
+32
+R10
+R11
+Astruct
+Z17 DEx4 work 13 schemas_tsest 0 22 AlCWfWkQ89:iB_bQe5Q?60
+R5
+R6
+l81
+L38
+Z18 V4?VXnTYFGN:9N9CFPM5jD2
+Z19 !s100 Rg0FDFdHhTUh[X2:0QCKN2
+R9
+32
+R12
+R13
+R10
+R11

@@ -1,0 +1,42 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\HDS\bonus3a\bonus3a_lib\work
+T_opt
+Z1 V>JYamWHkcL[AhkDcb44MM2
+Z2 04 7 6 work logisim struct 1
+Z3 =1-d0e40bb21e8a-61b5e3b1-276-4e30
+Z4 o-quiet +acc -auto_acc_if_foreign -work bonus3a_lib -L bonus3a_lib
+Z5 n@_opt
+Z6 OE;O;6.6g;45
+Z7 dC:\HDS\bonus3a\bonus3a_lib\work
+Elogisim
+Z8 w1639308190
+Z9 DPx22 C:\modeltech_6.6g\ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z10 DPx22 C:\modeltech_6.6g\ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+R7
+Z11 8C:/HDS/bonus3a/bonus3a_lib/hdl/logisim_struct.vhd
+Z12 FC:/HDS/bonus3a/bonus3a_lib/hdl/logisim_struct.vhd
+l0
+L13
+Z13 VEk4>lk1iW2IkoRDoka[JH0
+Z14 OE;C;6.6g;45
+Z15 o-work bonus3a_lib -nologo
+Z16 tExplicit 1
+Z17 !s100 Qz>mzzJ;K2Kh5bZ427zd50
+Astruct
+DEx31 C:\HDS\bonus3a\bonus3a_lib\work 7 logisim 0 22 Ek4>lk1iW2IkoRDoka[JH0
+R9
+R10
+32
+Mx2 22 C:\modeltech_6.6g\ieee 14 std_logic_1164
+Mx1 22 C:\modeltech_6.6g\ieee 15 std_logic_arith
+l49
+L39
+Z18 V:@SoTc5X0Oi8IIz<fhXKn2
+R14
+R15
+R16
+Z19 !s100 3Eo6P26WCFfKM5HJ8UOSV3
